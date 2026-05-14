@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use or cite this repository, please cite it as below."
+title: "HUMANITY-ONE: Scientific, Ethical and Operational Framework for Health, Longevity, Dignity, Artificial Intelligence and Human Flourishing"
+authors:
+- family-names: "Di Paolo"
+given-names: "Pierernesto"
+orcid: "https://orcid.org/0009-0003-0149-4321"
+year: 2026
+repository-code: "https://github.com/Pierernesto/humanity-one"
+url: "https://github.com/Pierernesto/humanity-one"
+license: "All rights reserved"
